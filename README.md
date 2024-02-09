@@ -3,3 +3,8 @@
 It's very easy and effective project with good GUI interfence !
 
 # Requirements
+Required modules for this project are:  
+* pyqrcode  ```pip install PyQRCode```
+* png module  ```pip install pypng```
+* Tkinter ```pip install tk```
+* ttkthemes  ```pip install ttkthemes```
