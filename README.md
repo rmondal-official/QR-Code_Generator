@@ -20,6 +20,7 @@ This GitHub repository houses the source code for a **comprehensive and visually
 #  Prerequisites
 
 - Python 3.10 (I hope it would run on newer versions)
+- Tkinter library (usually included with Python installations)
 
 # Getting Started
 
@@ -32,7 +33,7 @@ git clone https://github.com/rmondal-official/QR-Code_Generator.git
 2. **Install Dependencies:** Employ pip to install the necessary libraries:
 
 ```bash
-pip install pyqrcode pypng tkinter ttkthemes
+pip install pyqrcode pypng ttkthemes
 ```
 
 3. **Launch the Application:** Execute the provided Python script:
