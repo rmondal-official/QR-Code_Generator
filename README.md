@@ -32,7 +32,7 @@ git clone https://github.com/rmondal-official/QR-Code_Generator.git
 2. **Install Dependencies:** Employ pip to install the necessary libraries:
 
 ```bash
-pip install pyqrcode png tkinter ttkthemes
+pip install pyqrcode pypng tkinter ttkthemes
 ```
 
 3. **Launch the Application:** Execute the provided Python script:
